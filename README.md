@@ -1,6 +1,7 @@
 # cart_with_providers
 
-A new Flutter project.
+A new Flutter project 
+How to use Provider in flutter state management  .
 
 ## Getting Started
 
